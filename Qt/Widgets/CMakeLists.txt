@@ -61,10 +61,6 @@ set(Module_SRCS
   pqColorButtonEventTranslator.h
   pqColorChooserButton.cxx
   pqColorChooserButton.h
-  pqColorTableDelegate.cxx
-  pqColorTableDelegate.h
-  pqColorTableModel.cxx
-  pqColorTableModel.h
   pqConnect.cxx
   pqConnect.h
   pqConsoleWidget.cxx
@@ -155,7 +151,6 @@ QT4_WRAP_CPP(QtWidgets_MOC_SOURCES
   pqColorChooserButton.h
   pqColorDialogEventPlayer.h
   pqColorDialogEventTranslator.h
-  pqColorTableModel.h
   pqConsoleWidget.h
   pqConsoleWidgetEventPlayer.h
   pqConsoleWidgetEventTranslator.h
